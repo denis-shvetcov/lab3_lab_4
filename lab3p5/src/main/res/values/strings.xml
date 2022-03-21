@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3p5</string>
+
+    <string name="to_first">to first</string>
+    <string name="to_second">to second</string>
+    <string name="to_third">to third</string>
+    <string name="title_about">to about</string>
+</resources>

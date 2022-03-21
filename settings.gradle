@@ -1,0 +1,13 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Lab_3_and_4"
+include ':lab3p2'
+include ':lab3p3'
+include ':lab3p4'
+include ':lab3p5'
+include ':lab4'
